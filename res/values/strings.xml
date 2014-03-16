@@ -13,4 +13,5 @@
     <string name="thankyou_desc">If you have any questions, just ask. To support others that may have the same question, we\'ll answer your questions in the CyanDream thread of your device.</string>
     <string name="almostdone">Almost done!</string>
     <string name="almostdone_desc">But before we are, you\'ll have to select the type of builds you\'d like to search updates for.</string>
+    <string name="exit">Exit</string>
 </resources>

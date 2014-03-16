@@ -25,4 +25,13 @@
         android:layout_centerHorizontal="true"
         android:gravity="center_horizontal" />
 
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="@string/exit"
+        android:onClick="finish"
+        android:id="@+id/exit"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
