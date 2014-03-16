@@ -11,4 +11,6 @@
     <string name="select">Auswählen</string>
     <string name="thankyou">Danke für die Nutzung von CyanDream!</string>
     <string name="thankyou_desc">Wenn du Fragen hast, dann frag\' einfach. Um andere zu Unterstützen die evtl. die gleiche Frage haben, beantworten wir deine Frage in dem entsprechenden Thread zu deinem Gerät.</string>
+    <string name="almostdone">Fast fertig!</string>
+    <string name="almostdone_desc">Bevor wir es sind musst du noch auswählen, nach welchen neuen Builds du suchen möchtest.</string>
 </resources>

@@ -13,7 +13,7 @@ public class UCSelect extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_uc_setup);
-        //cmaccount();
+        cmaccount();
     }
     private void cmaccount () {
         Intent intent = new Intent(Intent.ACTION_MAIN);
