@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyanDream Setup</string>
+
+    <string name="welcome">Welcome to CyanDream!</string>
+    <string name="next">Next</string>
+    <string name="guide">We\'ll guide you through the setup of your device</string>
+    <string name="guide_desc">If you\'d like to setup a CM Account, a Google Account or connect your phone to a WiFi network, the CM setup will guide you. If don\'t want to set something, you can skip the setup here.</string>
+    <string name="cmsetup">CM setup</string>
+    <string name="skip">Skip</string>
+    <string name="select">Select</string>
+    <string name="thankyou">Thank you for using CyanDream!</string>
+    <string name="thankyou_desc">If you have any questions, just ask. To support others that may have the same question, we\'ll answer your questions in the CyanDream thread of your device.</string>
+    <string name="almostdone">Almost done!</string>
+    <string name="almostdone_desc">But before we are, you\'ll have to select the type of builds you\'d like to search updates for.</string>
+</resources>

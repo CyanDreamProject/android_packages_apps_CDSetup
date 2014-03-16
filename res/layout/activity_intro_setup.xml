@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cyandream.setup.MainSetup">
+
+    a<TextView
+        android:text="@string/guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="115dp"
+        android:textSize="30sp"
+        android:id="@+id/textView"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cmsetup"
+        android:onClick="next"
+        android:id="@+id/next"
+        android:layout_above="@+id/skip"
+        android:layout_alignStart="@+id/skip" />
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="@string/skip"
+        android:onClick="skip"
+        android:id="@+id/skip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/guide_desc"
+        android:id="@+id/textView2"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/next" />
+
+</RelativeLayout>

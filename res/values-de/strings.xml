@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyanDream Einrichtung</string>
+
+    <string name="welcome">Willkommen bei CyanDream!</string>
+    <string name="next">Weiter</string>
+    <string name="guide">Wir begleiten dich durch die Einrichtung deines Geräts</string>
+    <string name="guide_desc">Wenn du einen CM Account, einen Google Account oder ein WLAN-Netzwerk einrichten möchtest, dann begleitet dich der CyanogenMod Einrichtungsassistent. Wenn du nichts einstellen möchtest, dann kannst du die Einrichtung hier überspringen.</string>
+    <string name="cmsetup">CM Einrichtung</string>
+    <string name="skip">Überspringen</string>
+    <string name="select">Auswählen</string>
+    <string name="thankyou">Danke für die Nutzung von CyanDream!</string>
+    <string name="thankyou_desc">Wenn du Fragen hast, dann frag\' einfach. Um andere zu Unterstützen die evtl. die gleiche Frage haben, beantworten wir deine Frage in dem entsprechenden Thread zu deinem Gerät.</string>
+</resources>
