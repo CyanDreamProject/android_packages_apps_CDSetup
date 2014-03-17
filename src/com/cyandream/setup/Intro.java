@@ -15,8 +15,10 @@ public class Intro extends Activity {
     }
     public void next (final View view) {
         startActivity(new Intent(this, UCSelect.class));
+        finish();
     }
     public void skip (final View view) {
         startActivity(new Intent (this, Goodbye.class));
+        finish();
     }
 }

@@ -23,5 +23,6 @@ public class MainSetup extends Activity {
             Log.i("Google", "No GApps!");
         }
         startActivity(new Intent (this, Intro.class));
+        finish();
     }
 }
